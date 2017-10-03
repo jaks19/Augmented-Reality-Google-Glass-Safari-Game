@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TouchToPlay.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PhotoPlane.cs" Line="27" Column="1" />
+      <File FileName="Assets/Scripts/TimeAndScore.cs" Line="34" Column="21" />
+      <File FileName="Assets/Scripts/AnimalMovement.cs" Line="5" Column="25" />
+      <File FileName="Assets/Scripts/AnimalsAppear.cs" Line="37" Column="81" />
+      <File FileName="Assets/Scripts/WebcamOntoPlane.cs" Line="46" Column="6" />
+      <File FileName="Assets/Scripts/TouchToPlay.cs" Line="15" Column="12" />
+      <File FileName="Assets/Scripts/ExitScreen.cs" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
