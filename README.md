@@ -10,6 +10,9 @@ A demo of the running game can be seen [here](videoName.mp4). It may seem laggy 
 
 ## Run/Dev Instructions
 Pull the repo and open the project folder on Unity3D
+The game can be run without building on your PC although you will not get the spatial capabilities of the game
+You can build it on any platform from Android to IOS but since the game uses some Native Android features, you will need to tweak some stuff to get it to run on other platforms.
+(Google Glass, Android Phones and Tablets should work fine - Screen size needs to be altered before building for any of those but app is ready to go for Glass)
 
 ## File Hierarchy
 * Assets folder contains the C# scripts and all the art assets used to draw the animals
