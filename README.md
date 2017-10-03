@@ -6,7 +6,7 @@ This game can be run on any Android device and has been optimized for Google Gla
 This game was designed for children to play and get acquainted with their physical environment.
 
 ## Video Demo
-
+A demo of the running game can be seen [here](videoName.mp4). It may seem laggy as the Google Glass gets hot really fast and I had run the game about 10 times already until I found a robust solution to recording the screen on Glass. The project needs some performance optimization for smoother rendering (although it is really smooth in the first ~10 rounds, and the scope of the project was not performance).
 
 ## Run/Dev Instructions
 Pull the repo and open the project folder on Unity3D
@@ -15,4 +15,4 @@ Pull the repo and open the project folder on Unity3D
 * Assets folder contains the C# scripts and all the art assets used to draw the animals
 * Project Settings contains the setting of the 3D environment that is dynamically created around you so that the animals are within your scope of vision
 
-Note: The project needs to be open from the highest-level point that encompasses all the files int his repo
+Note: The project needs to be open from the highest-level point that encompasses all the files in this repo
